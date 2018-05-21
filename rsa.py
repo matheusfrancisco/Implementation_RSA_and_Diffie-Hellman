@@ -41,10 +41,10 @@ class RSA(object):
 		return res #res
 	
 	def publicKey(self):
-		return(n,e)
+		return(self.n,self.e)
 
 	def privateKey(self):
-		return(n,d)
+		return(self.n,self.d)
 
 
 if __name__ == '__main__':
