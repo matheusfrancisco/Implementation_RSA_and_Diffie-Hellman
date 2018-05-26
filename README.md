@@ -1,6 +1,9 @@
 # Trabalho de Topicos III
 ### Universidade Federal de Santa Catarina
 
+###### Desenvolvido por
+####### Matheus Francisco Batista Machado
+####### Ramon Tramontin
 
 [pdf-explicando](https://github.com/matheusfrancisco/Implementation_RSA/blob/master/p1.pdf) - PDF da explicando o problema a ser desenvolvido.
 
